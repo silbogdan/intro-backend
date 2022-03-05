@@ -7,6 +7,8 @@ Until now, we focused mostly on developing the user interface and considering da
 
 ## Useful links
 
+You can find the final api [here](http://basic-crud.westeurope.azurecontainer.io:5000/users)
+
 As always, the documentation is the place to start for everything. We will be using Express for our first API, but I recommend taking a look at other tools as well: [Express](https://expressjs.com/en/5x/api.html#express), [ASP.NET](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api), [Spring Boot](https://spring.io/quickstart), [NestJS](https://docs.nestjs.com/), [Django](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)  
 
 ### Places to learn
